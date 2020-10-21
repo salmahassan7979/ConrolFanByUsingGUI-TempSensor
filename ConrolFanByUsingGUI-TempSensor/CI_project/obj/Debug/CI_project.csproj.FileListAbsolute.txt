@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CI_project\CI_project\bin\Debug\CI_project.exe.config
+C:\Users\DELL\source\repos\CI_project\CI_project\bin\Debug\CI_project.exe
+C:\Users\DELL\source\repos\CI_project\CI_project\bin\Debug\CI_project.pdb
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.Form1.resources
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.Properties.Resources.resources
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.exe
+C:\Users\DELL\source\repos\CI_project\CI_project\obj\Debug\CI_project.pdb
